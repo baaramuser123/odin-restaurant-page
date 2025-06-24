@@ -31,7 +31,7 @@
         // </div>
 
 export function displayMenu(){
-    const titles = ["Dirty Martini", "Vanilla Dirt", "Spaghetti with Dirt",
+    const titles = ["Dirty Martini", "Vanilla Dirt-tte", "Spaghetti with Dirt",
          "Ground Dirt", "Dirt On a Stick", "Brownie",];
     const ids = ["martini", "latte", "spaghetti", "ground-dirt",
          "cone", "brownie",];
